@@ -330,3 +330,10 @@ stage('SonarQube Quality Gate') {
 ![Screenshots](images/28.png)
 ![Screenshots](images/29.png)
 ![Screenshots](images/30.png)
+
+
+### Project Implementation Repositories
+
+[PHP Todo Repo](https://github.com/scholarship-task/php-todo-redo)
+
+[Ansible Repo](https://github.com/dapetoo/ansible-config-mgt)
