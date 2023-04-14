@@ -78,12 +78,19 @@ ansible-playbook -i inventory/dev.yml playbooks/common.yml
 #### Project Screenshots
 
 ![Screenshots](images/01.png)
+
 ![Screenshots](images/02.png)
+
 ![Screenshots](images/03.png)
+
 ![Screenshots](images/04.png)
+
 ![Screenshots](images/05.png)
+
 ![Screenshots](images/06.png)
+
 ![Screenshots](images/07.png)
+
 ![Screenshots](images/08.png)
 
 
